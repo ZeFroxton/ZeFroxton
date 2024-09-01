@@ -17,7 +17,3 @@
     - :game_die: Playing Game, Watching Anime and Tokusatsu. </br>
 <p>
  
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/ray_ark12/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
